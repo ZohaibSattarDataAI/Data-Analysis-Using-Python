@@ -4,7 +4,7 @@ This repository contains practical examples, scripts, and notebooks demonstratin
 
 ---
 
-##[Data Analysis Using Python](https://github.com/ZohaibSattarDataAI/Data-Analysis-Using-Python/blob/main/README.md)
+ [Data Analysis Using Python](https://github.com/ZohaibSattarDataAI/Data-Analysis-Using-Python/blob/main/README.md)
 
 ## 📘 Repository Overview  
 Data analysis is the backbone of decision-making in business, research, and technology. Using Python’s powerful ecosystem of libraries, this repository showcases how to:  
