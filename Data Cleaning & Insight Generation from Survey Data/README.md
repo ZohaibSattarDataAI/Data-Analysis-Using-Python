@@ -15,6 +15,11 @@ The goal of this project was to clean real-world survey data, handle categorical
 - Create summary charts for reporting  
 
 ---
+## Project Tasks
+
+[Tasks](C:\Users\zabiz\Pictures\Screenshots\Screenshot 2025-08-28 122753.png)
+
+
 
 ## ⚙️ Tools & Libraries
 **Programming Language:** Python (Jupyter Notebook)  
