@@ -17,8 +17,9 @@ The goal of this project was to clean real-world survey data, handle categorical
 ---
 ## Project Tasks
 
-[Tasks](C:\Users\zabiz\Pictures\Screenshots\Screenshot 2025-08-28 122753.png)
 
+
+<img width="814" height="478" alt="Screenshot 2025-08-28 122753" src="https://github.com/user-attachments/assets/3c58a10e-59ff-4344-af86-8547a93cdc6f" />
 
 
 ## ⚙️ Tools & Libraries
