@@ -71,22 +71,24 @@ This project is part of my **Excelerate Internship Program**, where I performed 
 
 ---
 
-## 📁 Repository Structure
-```bash
-EDA-Churn-Analysis/
-│── churn_eda.ipynb        # Jupyter Notebook containing EDA steps
-│── churn_dataset.csv      # Dataset file
-│── README.md              # Project documentation
-│── /images                # Visuals & charts used in the analysis
-
-
-👨‍💻 Author  
-**Zohaib Sattar**  
-📧 Email: [Zohaib Sattar](zabizubi86@gmail.com)  
-🔗 LinkedIn: [Zohaib Sattar](https://www.linkedin.com/)  
+## 🎯 Use Cases  
+- 📚 Educational use for learning **Data Cleaning & Preprocessing**  
+- 🧠 Practice project for **Data Analytics & EDA**  
+- 📊 Useful for **survey-based research & reporting**  
+- 📁 Portfolio project for **job interviews**  
 
 ---
 
-⭐ Support the Project  
-If this project helped you learn or saved your time, please ⭐ star the repo and share it. It keeps the motivation high for open-source contributors!  
+## 👨‍💻 Author
+     Zohaib Sattar
+- 📧 Email: [zabizubi86@gmail.com](mailto:zabizubi86@gmail.com)  
+- 🔗 LinkedIn: [Zohaib Sattar](https://www.linkedin.com/in/zohaib-sattar-5680ab2a5/)  
+
+---
+
+## ⭐ Support the Project
+If this project helped you learn or saved your time, please ⭐ star the repo and share it.  
+It keeps the motivation high for open-source contributors! 🚀
+
+ 
 
